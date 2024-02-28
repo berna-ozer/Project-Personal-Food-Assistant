@@ -1,0 +1,13 @@
+streamlit 
+pillow
+requests
+io
+ipython
+pandas
+time
+selenium
+webdriver_manager.chrome
+os
+numpy
+
+
